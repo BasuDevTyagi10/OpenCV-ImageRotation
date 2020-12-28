@@ -1,0 +1,10 @@
+^C:\USERS\BASUDEV TYAGI\DOCUMENTS\WINTERBOOTCAMP\OPEN-CV PROJECT\BUILD\CMAKEFILES\00D86D0BD48B90FCF5802DC2E5592892\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Basudev Tyagi/Documents/WinterBootcamp/open-cv project" "-BC:/Users/Basudev Tyagi/Documents/WinterBootcamp/open-cv project/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Basudev Tyagi/Documents/WinterBootcamp/open-cv project/build/test-cv.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Basudev Tyagi\Documents\WinterBootcamp\open-cv project\build\CMakeFiles\00d86d0bd48b90fcf5802dc2e5592892\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Basudev Tyagi\Documents\WinterBootcamp\open-cv project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Basudev Tyagi\Documents\WinterBootcamp\open-cv project\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1D69C4E8-C2D5-348D-AB41-9431AC23E098}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
